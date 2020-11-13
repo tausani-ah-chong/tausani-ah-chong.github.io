@@ -8,3 +8,9 @@ body {
 a {
     color: #845708;
 }
+
+#title {
+    font-size: 150px;
+    letter-spacing: -0.05em;
+    line-height: 1em;
+}
