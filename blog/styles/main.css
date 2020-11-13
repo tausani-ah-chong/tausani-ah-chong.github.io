@@ -1,8 +1,9 @@
 body {
     background-color: #e6cfc1;
+    color: #845708;
+    font-family: 'Playfair Display', serif;
 }
 
-header {
+a {
     color: #845708;
 }
-
