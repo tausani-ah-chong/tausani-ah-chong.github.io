@@ -1,11 +1,10 @@
 body {
     background-color: #e6cfc1;
-    color: #845708;
     font-family: 'Playfair Display', serif;
     text-align: center;
 }
 
-a {
+.text-colour {
     color: #845708;
 }
 
