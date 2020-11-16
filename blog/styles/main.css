@@ -12,6 +12,8 @@ body {
     font-size: 150px;
     letter-spacing: -0.05em;
     line-height: 1em;
+    z-index: 2;
+    position: relative;
 }
 
 nav {
@@ -19,6 +21,7 @@ nav {
     padding-top: 3em;
     line-height: 1em;
     font-family: sans-serif;
+    z-index: 2;
 }
 
 .vl {
@@ -28,4 +31,13 @@ nav {
     display:inline-block;
     opacity: 0.5;
     margin: 1rem;
+  }
+
+  .astro-img {
+      position: absolute;
+      left: 50px;
+      display: block;
+      z-index: 1;
+      width: 15%;
+      opacity: 0.9;
   }
