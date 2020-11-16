@@ -16,5 +16,7 @@ body {
 
 nav {
     text-transform: uppercase;
-    line-height: 0.5em;
+    padding-top: 3em;
+    line-height: 1em;
+    font-family: sans-serif;
 }
