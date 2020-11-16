@@ -13,3 +13,8 @@ body {
     letter-spacing: -0.05em;
     line-height: 1em;
 }
+
+nav {
+    text-transform: uppercase;
+    line-height: 0.5em;
+}
