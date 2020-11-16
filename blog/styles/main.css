@@ -1,6 +1,6 @@
 body {
     background-color: #e6cfc1;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Cormorant Garamond', serif;
     text-align: center;
 }
 
@@ -38,7 +38,7 @@ nav {
       left: 50px;
       display: block;
       z-index: 1;
-      width: 15%;
+      width: 12%;
       opacity: 0.9;
   }
 
