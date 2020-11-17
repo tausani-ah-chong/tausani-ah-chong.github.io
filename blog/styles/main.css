@@ -7,13 +7,13 @@
 
 body {
     background-color: #e6cfc1;
-    font-family: 'Playfair Display', serif;
+    font-family: sans-serif;
     text-align: center;
 }
 
 .navbar {
     padding: 3rem 100px 3rem 100px;
-    font-weight: bold;
+   
 }
 
 .navbar-brand {
@@ -24,11 +24,18 @@ body {
     color: #845708;
 }
 
-#title {
-    font-size: 5rem;
+.title {
+    font-size: 7rem;
     padding: 40px 0 50px;
     z-index: 2;
     font-family: 'made_saonara', serif;
+    width: 67%;
+    margin: auto;
+    position: absolute;
+}
+
+.title h1 {
+    font-size: 4rem;
     width: 50%;
     margin: auto;
 }
@@ -43,11 +50,7 @@ body {
     padding: 3rem;
 }
 
-footer {
-    padding: 5rem;
-}
-
-  .vl-1 {
+.vl-1 {
     border-left: 1px solid #845708;
     height: 60px;
     text-align: center;
@@ -56,3 +59,12 @@ footer {
     margin-top: 4rem;
   }
 
+.arch1 {
+   width: 28%;
+   z-index: -1;
+   position: relative;
+   left: 230px;
+   bottom: 70px;
+
+
+}
