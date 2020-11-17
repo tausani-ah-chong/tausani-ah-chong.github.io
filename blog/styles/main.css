@@ -11,14 +11,23 @@ body {
     text-align: center;
 }
 
+.navbar {
+    padding: 3rem 100px 3rem 100px;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    font-size: 1.5rem;
+}
+
 .text-colour {
     color: #845708;
 }
 
 #title {
-    font-size: 7rem;
+    font-size: 5rem;
     z-index: 2;
-    position: relative;
+    display: inline-block;
     font-family: 'made_saonara', serif;
 }
 
