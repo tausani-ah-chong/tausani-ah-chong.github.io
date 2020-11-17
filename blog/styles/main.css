@@ -18,7 +18,7 @@ body {
 
 nav {
     text-transform: uppercase;
-    padding-top: 5em;
+    padding: 3em 0 2rem;
     line-height: 1em;
     font-family: sans-serif;
     z-index: 2;
@@ -30,7 +30,7 @@ nav {
     text-align: center;
     display:inline-block;
     opacity: 0.5;
-    margin: 1rem;
+    margin-bottom: 4rem;
   }
 
   .astro-img {
@@ -38,7 +38,7 @@ nav {
       left: 50px;
       display: block;
       z-index: 1;
-      width: 12%;
+      width: 14%;
       opacity: 0.9;
   }
 
