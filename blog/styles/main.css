@@ -44,13 +44,22 @@ nav {
     position: relative;
 }
 
-.vl {
+.vl-1 {
     border-left: 1px solid #845708;
     height: 60px;
     text-align: center;
     display:inline-block;
     opacity: 0.5;
     margin-bottom: 4rem;
+  }
+
+  .vl-2 {
+    border-left: 1px solid #845708;
+    height: 60px;
+    text-align: center;
+    display:inline-block;
+    opacity: 0.5;
+    margin-top: 4rem;
   }
 
 
