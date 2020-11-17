@@ -1,3 +1,11 @@
+@font-face {
+    font-family: 'sagitarius';
+    src: url(fonts/sagitarius/Sagitarius.otf);
+         format('opentype');
+    src: url(fonts/sagitarius/Sagitarius.ttf);
+        format('truetype');
+}
+
 body {
     background-color: #e6cfc1;
     font-family: 'Playfair Display', serif;
@@ -10,18 +18,18 @@ body {
 
 #title {
     font-size: 7rem;
-    line-height: 0.95em;
     z-index: 2;
     position: relative;
+    font-family: 'sagitarius', serif;
 }
 
 nav {
     text-transform: uppercase;
-    padding: 3em 0 2rem;
+    padding: 2rem 0 2rem;
     line-height: 1em;
-    font-family: sans-serif;
     z-index: 2;
     font-size: 0.8rem;
+    position: relative;
 }
 
 .vl {
@@ -35,10 +43,10 @@ nav {
 
   .abstract-img {
       position: absolute;
-      left: 100px;
+      left: 80px;
       display: block;
       z-index: 1;
-      width: 17%;
+      width: 20%;
       opacity: 0.9;
   }
 
@@ -48,7 +56,7 @@ nav {
     top: 70px;
     display: block;
     z-index: 1;
-    width: 16%;
+    width: 18%;
     opacity: 0.9;
   }
 
