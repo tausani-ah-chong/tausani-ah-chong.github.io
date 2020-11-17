@@ -26,9 +26,11 @@ body {
 
 #title {
     font-size: 5rem;
+    padding: 40px 0 50px;
     z-index: 2;
-    display: inline-block;
     font-family: 'made_saonara', serif;
+    width: 50%;
+    margin: auto;
 }
 
 #about {
