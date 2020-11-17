@@ -1,7 +1,8 @@
 @font-face {
-    font-family: 'sagitarius';
-    src: url(fonts/sagitarius/Sagitarius.otf);
-    src: url(fonts/sagitarius/Sagitarius.ttf);
+        font-family: 'made_saonara';
+        src: url('fonts/made_saonara/made-saonara-webfont.woff2') format('woff2'),
+             url('fonts/made_saonara/made-saonara-webfont.woff') format('woff');
+
 }
 
 body {
@@ -18,7 +19,7 @@ body {
     font-size: 7rem;
     z-index: 2;
     position: relative;
-    font-family: 'sagitarius', serif;
+    font-family: 'made_saonara', serif;
 }
 
 #about {
@@ -33,15 +34,6 @@ body {
 
 footer {
     padding: 5rem;
-}
-
-nav {
-    text-transform: uppercase;
-    padding: 2rem 0 2rem;
-    line-height: 1em;
-    z-index: 2;
-    font-size: 0.8rem;
-    position: relative;
 }
 
 .vl-1 {
@@ -62,47 +54,3 @@ nav {
     margin-top: 4rem;
   }
 
-
- /* images */
-
-  .abstract-img {
-      position: absolute;
-      left: 80px;
-      display: block;
-      z-index: 1;
-      width: 20%;
-      opacity: 0.9;
-  }
-
-  .blackhole-img {
-    position: absolute;
-    right: 80px;
-    top: 70px;
-    display: block;
-    z-index: 1;
-    width: 18%;
-    opacity: 0.9;
-  }
-
-  .astro-img {
-      width: 29%;
-      position: relative;
-      bottom: 45px;
-  }
-
-  .spaceship-img {
-    position: absolute;
-    right: 0px;
-    z-index: 1;
-    width: 22%;
-    opacity: 0.7;
-
-  }
-
-  .oil-img {
-    position: absolute;
-    left: 0px;
-    z-index: 1;
-    width: 20%;
-    opacity: 0.7;
-  }
