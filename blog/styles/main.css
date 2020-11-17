@@ -9,8 +9,7 @@ body {
 }
 
 #title {
-    font-size: 180px;
-    letter-spacing: -0.05em;
+    font-size: 7rem;
     line-height: 0.95em;
     z-index: 2;
     position: relative;
@@ -22,6 +21,7 @@ nav {
     line-height: 1em;
     font-family: sans-serif;
     z-index: 2;
+    font-size: 0.8rem;
 }
 
 .vl {
@@ -33,21 +33,28 @@ nav {
     margin-bottom: 4rem;
   }
 
-  .astro-img {
+  .abstract-img {
       position: absolute;
-      left: 50px;
+      left: 80px;
       display: block;
       z-index: 1;
-      width: 14%;
+      width: 17%;
       opacity: 0.9;
   }
 
   .blackhole-img {
     position: absolute;
-    right: 50px;
+    right: 80px;
     top: 70px;
     display: block;
     z-index: 1;
-    width: 18%;
+    width: 16%;
     opacity: 0.9;
+  }
+
+  .astro-img {
+      width: 29%;
+      opacity: 1;
+      position: relative;
+      bottom: 45px;
   }
