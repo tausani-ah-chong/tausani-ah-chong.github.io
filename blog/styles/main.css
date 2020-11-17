@@ -1,6 +1,6 @@
 body {
     background-color: #e6cfc1;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Playfair Display', serif;
     text-align: center;
 }
 
@@ -9,9 +9,9 @@ body {
 }
 
 #title {
-    font-size: 150px;
+    font-size: 180px;
     letter-spacing: -0.05em;
-    line-height: 1em;
+    line-height: 0.95em;
     z-index: 2;
     position: relative;
 }
