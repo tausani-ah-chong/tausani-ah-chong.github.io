@@ -1,9 +1,7 @@
 @font-face {
     font-family: 'sagitarius';
     src: url(fonts/sagitarius/Sagitarius.otf);
-         format('opentype');
     src: url(fonts/sagitarius/Sagitarius.ttf);
-        format('truetype');
 }
 
 body {
@@ -24,7 +22,13 @@ body {
 }
 
 #about {
-    margin: 5rem;
+    margin: auto;
+    width: 30%;
+    text-align: center;
+}
+
+#about h1 {
+    padding: 3rem;
 }
 
 footer {
