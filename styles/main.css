@@ -29,14 +29,14 @@ body {
     padding: 40px 0 50px;
     z-index: 2;
     font-family: 'made_saonara', serif;
-    width: 67%;
+    width: 60%;
     margin: auto;
     position: absolute;
 }
 
 .title h1 {
     font-size: 4rem;
-    width: 50%;
+    width: 45%;
     margin: auto;
 }
 
