@@ -15,8 +15,16 @@ body {
     margin: 5rem;
 }
 
+.media-body {
+    padding: 2rem;
+}
+
 .navbar {
     padding: 1.5rem 6rem;
+}
+
+.image-max {
+    max-width: 540px;
 }
 
 .navbar-brand {
