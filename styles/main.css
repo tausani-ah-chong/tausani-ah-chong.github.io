@@ -16,54 +16,17 @@ body {
    
 }
 
-.navbar-brand {
-}
-
 .text-colour {
     color: #845708;
 }
 
 .title {
-    font-size: 7rem;
-    padding: 40px 0 50px;
     z-index: 2;
     font-family: 'made_saonara', serif;
-    width: 60%;
-    margin: auto;
-    position: absolute;
+    font-size: 5rem;
+    margin: 2rem 0 2rem;
 }
-
-.title h1 {
-    font-size: 4rem;
-    width: 45%;
-    margin: auto;
-}
-
-#about {
-    margin: auto;
-    width: 30%;
-    text-align: center;
-}
-
-#about h1 {
-    padding: 3rem;
-}
-
-.vl-1 {
-    border-left: 1px solid #845708;
-    height: 60px;
-    text-align: center;
-    display:inline-block;
-    opacity: 0.5;
-    margin-top: 4rem;
-  }
 
 .arch1 {
-   width: 25%;
    z-index: -1;
-   position: relative;
-   left: 230px;
-
-
-
 }
