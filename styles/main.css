@@ -11,6 +11,10 @@ body {
     text-align: center;
 }
 
+.card {
+    margin: 5rem;
+}
+
 .navbar {
     padding: 1.5rem 6rem;
 }
