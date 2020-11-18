@@ -13,7 +13,11 @@ body {
 
 .navbar {
     padding: 1.5rem 6rem;
-   
+}
+
+.navbar-brand {
+    font-weight: bold;
+    opacity: 0.9;
 }
 
 .text-colour {
@@ -24,7 +28,8 @@ body {
     z-index: 2;
     font-family: 'made_saonara', serif;
     font-size: 5rem;
-    margin: 2rem 0 2rem;
+    margin: 6rem 0 2rem;
+    line-height: 4rem;
 }
 
 .arch1 {
