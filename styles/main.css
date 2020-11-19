@@ -47,3 +47,7 @@ body {
 .arch1 {
    z-index: -1;
 }
+
+#blog-content img {
+    margin: 1rem 0;
+}
