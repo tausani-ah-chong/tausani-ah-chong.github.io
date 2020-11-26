@@ -16,12 +16,12 @@ p {
     margin: 2em 0;
 }
 
-.card {
-    margin: 5rem;
+.media-body {
+    padding: 2rem 8rem;
 }
 
-.media-body {
-    padding: 2rem;
+.card {
+    margin: 5rem;
 }
 
 .navbar {
