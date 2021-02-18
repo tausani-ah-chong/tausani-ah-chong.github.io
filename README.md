@@ -1,4 +1,4 @@
-# Foundations Personal Portfolio
+# Student Personal Portfolio
 
 ## Homepage
 
